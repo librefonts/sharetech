@@ -1,0 +1,78 @@
+{
+  "name": "Share Tech",
+  "designer": "Ralph du Carrois",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 15003,
+  "fonts": [
+    {
+      "name": "Share-Tech",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ShareTech-Regular.ttf",
+      "postScriptName": "ShareTech-Regular",
+      "fullName": "Share Tech",
+      "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'"
+    },
+    {
+      "name": "Share-Tech",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ShareTech-Regular-TTF.ttf",
+      "postScriptName": "ShareTech-Regular",
+      "fullName": "Share Tech",
+      "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'"
+    },
+    {
+      "name": "Share-Tech",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-TechExp-Regular.ttf",
+      "postScriptName": "Share-TechExp",
+      "fullName": "Share-TechExp",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-Tech",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-Tech-Regular.ttf",
+      "postScriptName": "Share-Tech",
+      "fullName": "Share-Tech",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-Tech",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ShareTechMono-Regularo-TTF.ttf",
+      "postScriptName": "Share-TechMono",
+      "fullName": "Share-TechMono",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-Tech",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ShareTechMono-Regular-TTF.ttf",
+      "postScriptName": "ShareTechMono-Regular",
+      "fullName": "Share Tech Mono",
+      "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'"
+    },
+    {
+      "name": "Share-Tech",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ShareTech-Regularo-TTF.ttf",
+      "postScriptName": "Share-Tech",
+      "fullName": "Share-Tech",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-31"
+}

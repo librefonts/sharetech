@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [ShareTech-Regular.ttf.ttx, src/ShareTech-Regular.otf.ttx, src/ShareTech-Regularo.ttf.ttx,
+  src/expertset/ShareTechExp-Regular.ttf.ttx, src/expertset/ShareTechExp-Regular.otf.ttx,
+  src/ShareTechMono-Regularo-TTF.sfd, src/ShareTech-Regular-TTF.sfd, src/ShareTechMono-Regular-TTF.sfd,
+  src/ShareTech-Regularo-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
